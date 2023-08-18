@@ -28,6 +28,15 @@
   color: #61dafb;
 }
 
+.Relogio {
+  text-align: center;
+  background-color: #282c34;
+  display: block;
+  color: white;
+  margin: 0;
+  padding: 0;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
